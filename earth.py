@@ -4,4 +4,3 @@ def earth():
 
     print(f"The result of {x} comes first in the dictionary than {y} is {bool(x < y)}.")
     print(f"The result of {y} comes first in the dictionary than {x} is {bool(y < x)}.")
-earth()

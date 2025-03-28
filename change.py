@@ -9,4 +9,3 @@ def change():
 
     print(f"Pesos:\n{int(money - expense)}")
     print(f"Centavos:\n{int(((money - expense) - int(money - expense))*100)}")
-change()
